@@ -1,0 +1,1 @@
+C:\Users\KIIT0001\Desktop\Flutter Projects\qr_scanner\build\app\intermediates\cxx\Debug\s2c5c2a2\obj\arm64-v8a
