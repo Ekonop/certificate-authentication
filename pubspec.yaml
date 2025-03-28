@@ -37,7 +37,7 @@ dependencies:
   mobile_scanner: ^6.0.7
   qr_flutter: ^4.1.0
   google_fonts: ^6.2.1
-
+  go_router:
 dev_dependencies:
   flutter_test:
     sdk: flutter

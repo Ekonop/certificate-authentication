@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:mobile_scanner/mobile_scanner.dart';
 import 'landingpage.dart';
 
+
 const bgColor = Color.fromARGB(255, 43, 22, 2);
 const accentColor = Color(0xFFFFA500);
 
