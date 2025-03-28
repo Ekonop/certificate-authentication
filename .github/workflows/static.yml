@@ -1,5 +1,9 @@
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
+theme: jekyll-theme-minimal
+title: certificate-authentication
+description: Click this link to open the app!
+
 
 on:
   # Runs on pushes targeting the default branch
