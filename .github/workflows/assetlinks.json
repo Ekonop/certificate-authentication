@@ -1,0 +1,10 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "qr_scanner",
+            "package_name": "com.example.qr_scanner",
+            "sha256_cert_fingerprints": [...]
+        }
+    }
+]
